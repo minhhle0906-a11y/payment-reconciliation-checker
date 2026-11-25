@@ -4,6 +4,8 @@ A small web app that compares an internal payment ledger with a bank statement, 
 
 **Live demo:** https://payment-reconciliation-checker-minhhle0906.streamlit.app/
 
+![Screenshot](screenshot.png)
+
 ## Why I built this
 
 I work in payment data reconciliation at a bank. Every day I match transactions in a reconciliation system, and when amounts do not agree, the items stay unmatched until I trace the stakeholders, find the reason, and post the missing amount so they can be matched. I built this project to understand how that matching logic works behind the scenes, and to practise turning an operations process into a working tool with Python.
