@@ -1,0 +1,3 @@
+reference,amount,stakeholder,note
+TXN000046,330,Merchant Services,Acquirer fee deducted from settlement; fee entry posted
+TXN000149,330,Card Operations,Partial refund settled separately; refund entry posted
