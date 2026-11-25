@@ -2,7 +2,7 @@
 
 A small web app that compares an internal payment ledger with a bank statement, flags every break that needs review, and lets the user record the adjustments that resolve them.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://payment-reconciliation-checker-minhhle0906.streamlit.app/
 
 ## Why I built this
 
